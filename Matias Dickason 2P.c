@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define N 3 // CANTIDAD DE CANCIONES.
+#define N 3 // CANTIDAD DE CANCIONES N PUEDE VARIAR.
 
 struct CANCION {
 	char NOMBRE[50];
