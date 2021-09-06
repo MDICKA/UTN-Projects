@@ -19,10 +19,8 @@ int main () {
     struct CANCION TEMAS[N];
     char AUBUS [50];
 
-
     CARGAR(TEMAS);
     IMPRIMIR_AUTORES(TEMAS);
-
 
     printf("\n\nINGRESE EL AUTOR A BUSCAR: ");
     gets(AUBUS);
